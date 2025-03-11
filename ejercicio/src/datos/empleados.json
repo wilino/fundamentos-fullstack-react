@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "nombre": "Juan",
+        "apellido": "Pérez",
+        "cargo": "Desarrollador",
+        "activo": true
+    },
+    {
+        "id": 2,
+        "nombre": "María",
+        "apellido": "González",
+        "cargo": "Diseñadora",
+        "activo": false
+    },
+    {
+        "id": 3,
+        "nombre": "Carlos",
+        "apellido": "Ramírez",
+        "cargo": "Gerente",
+        "activo": true
+    }
+]
